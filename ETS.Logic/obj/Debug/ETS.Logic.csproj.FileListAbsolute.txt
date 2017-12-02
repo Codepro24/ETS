@@ -1,0 +1,9 @@
+C:\Users\user\Desktop\TAFE Petersham\Programming with C#\Term 3\ETS\ETS.Logic\bin\Debug\ETS.Logic.dll
+C:\Users\user\Desktop\TAFE Petersham\Programming with C#\Term 3\ETS\ETS.Logic\bin\Debug\ETS.Logic.pdb
+C:\Users\user\Desktop\TAFE Petersham\Programming with C#\Term 3\ETS\ETS.Logic\bin\Debug\ETS.Data.dll
+C:\Users\user\Desktop\TAFE Petersham\Programming with C#\Term 3\ETS\ETS.Logic\bin\Debug\ETS.Domain.dll
+C:\Users\user\Desktop\TAFE Petersham\Programming with C#\Term 3\ETS\ETS.Logic\bin\Debug\ETS.Data.pdb
+C:\Users\user\Desktop\TAFE Petersham\Programming with C#\Term 3\ETS\ETS.Logic\bin\Debug\ETS.Domain.pdb
+C:\Users\user\Desktop\TAFE Petersham\Programming with C#\Term 3\ETS\ETS.Logic\obj\Debug\ETS.Logic.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\TAFE Petersham\Programming with C#\Term 3\ETS\ETS.Logic\obj\Debug\ETS.Logic.dll
+C:\Users\user\Desktop\TAFE Petersham\Programming with C#\Term 3\ETS\ETS.Logic\obj\Debug\ETS.Logic.pdb

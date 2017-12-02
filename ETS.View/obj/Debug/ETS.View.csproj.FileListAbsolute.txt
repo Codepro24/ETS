@@ -1,0 +1,17 @@
+C:\Users\user\Desktop\TAFE Petersham\Programming with C#\Term 3\ETS\ETS.View\bin\Debug\ETS.View.exe.config
+C:\Users\user\Desktop\TAFE Petersham\Programming with C#\Term 3\ETS\ETS.View\bin\Debug\ETS.View.exe
+C:\Users\user\Desktop\TAFE Petersham\Programming with C#\Term 3\ETS\ETS.View\bin\Debug\ETS.View.pdb
+C:\Users\user\Desktop\TAFE Petersham\Programming with C#\Term 3\ETS\ETS.View\bin\Debug\ETS.Domain.dll
+C:\Users\user\Desktop\TAFE Petersham\Programming with C#\Term 3\ETS\ETS.View\bin\Debug\ETS.Logic.dll
+C:\Users\user\Desktop\TAFE Petersham\Programming with C#\Term 3\ETS\ETS.View\bin\Debug\ETS.Data.dll
+C:\Users\user\Desktop\TAFE Petersham\Programming with C#\Term 3\ETS\ETS.View\bin\Debug\ETS.Domain.pdb
+C:\Users\user\Desktop\TAFE Petersham\Programming with C#\Term 3\ETS\ETS.View\bin\Debug\ETS.Logic.pdb
+C:\Users\user\Desktop\TAFE Petersham\Programming with C#\Term 3\ETS\ETS.View\bin\Debug\ETS.Data.pdb
+C:\Users\user\Desktop\TAFE Petersham\Programming with C#\Term 3\ETS\ETS.View\obj\Debug\ETS.View.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\TAFE Petersham\Programming with C#\Term 3\ETS\ETS.View\obj\Debug\ETS.View.Form1.resources
+C:\Users\user\Desktop\TAFE Petersham\Programming with C#\Term 3\ETS\ETS.View\obj\Debug\ETS.View.Properties.Resources.resources
+C:\Users\user\Desktop\TAFE Petersham\Programming with C#\Term 3\ETS\ETS.View\obj\Debug\ETS.View.csproj.GenerateResource.Cache
+C:\Users\user\Desktop\TAFE Petersham\Programming with C#\Term 3\ETS\ETS.View\obj\Debug\ETS.View.exe
+C:\Users\user\Desktop\TAFE Petersham\Programming with C#\Term 3\ETS\ETS.View\obj\Debug\ETS.View.pdb
+C:\Users\user\Desktop\TAFE Petersham\Programming with C#\Term 3\ETS\ETS.View\obj\Debug\ETS.View.Form2.resources
+C:\Users\user\Desktop\TAFE Petersham\Programming with C#\Term 3\ETS\ETS.View\obj\Debug\ETS.View.Form3.resources
