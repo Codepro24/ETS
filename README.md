@@ -8,3 +8,10 @@ Be sure to add a SQL Connection string to the EmployeeDAO and EmpHrsDAO, which w
             1. SqlConnection conn = new SqlConnection();
             2. conn.ConnectionString = ~~@"Data Source=USER-HP\SQLEXPRESS1;Initial Catalog=ETSDB;Integrated Security=True";~~ ** **(This is where the Connection String goes)** **
             3. conn.Open();
+
+### Testing
+The code was tested with sample data manually. I will add the Unit Testing at a later time.
+
+#### Acknowledgment
+Graeme Henderson (TAFE Petersham),
+Riccardo Carzaniga (TAFE Petersham and Data Analyst)
